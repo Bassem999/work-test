@@ -22,7 +22,7 @@ export default {
   ],
 
   components: true,
-
+target:'static',
   buildModules: [
     '@nuxtjs/eslint-module',
     '@nuxtjs/tailwindcss',
